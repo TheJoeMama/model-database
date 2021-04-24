@@ -1,4 +1,4 @@
-local table = {
+SpaceSystem.modellist = {
 ["models/player/police.mdl"] = 10  
 }
-print(table)
+print("DATABASE LOADED")
