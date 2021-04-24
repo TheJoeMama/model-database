@@ -1,3 +1,3 @@
-local table = {
+SpaceSystem.modellist = {
 ["models/player/police.mdl"] = 10  
 }
